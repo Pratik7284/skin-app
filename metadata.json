@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DermisAI - Advanced Skin Analysis",
+  "description": "Professional AI-powered skin analysis platform offering non-medical skin quality reports, personalized recommendations, and a skin-knowledge chatbot.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
